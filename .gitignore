@@ -22,3 +22,7 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# ignore IDE auto-generated files
+.imdone/
+.idea/
